@@ -1,0 +1,95 @@
+@media only screen and (max-width: 766px) {
+    .mobile-hide{
+        display: none !important;
+    }
+    .footer-top .footer-title {
+		margin-top: 5px;
+		margin-bottom: 20px;
+	}
+	.footer-top ul li{
+		text-align: left;
+	}
+
+	
+	.footer-top .contact{
+		/*max-width: none;
+		padding: 0px 60px;*/
+		margin-bottom: 30px;
+	}
+	.modal-payment .modal-body .modal-total {
+		margin: 0 20px 30px;
+	}
+}
+
+@media only screen and (max-width: 540px){
+	.dropdown-menu.dropdown-cart{
+		top: 7px !important;
+	}
+}
+
+@media only screen and (max-width: 414px) {
+	.dropdown-menu.dropdown-cart{
+		width: 102vw !important;
+		height: 100vh !important;
+		top: 21.5px !important;
+		border-left: 1px solid #fff !important;
+		border-right: 1px solid #fff !important;
+		left: auto !important;
+		right: auto !important;
+		transform: translate(-80%, 0) !important;
+	}
+}
+
+@media only screen and (max-width: 412px) {
+	.dropdown-menu.dropdown-cart{
+		width: 102vw !important;
+		height: 100vh !important;
+		top: 21.5px !important;
+		border-left: 1px solid #fff !important;
+		border-right: 1px solid #fff !important;
+		left: auto !important;
+		right: auto !important;
+		transform: translate(-80%, 0) !important;
+	}
+}
+
+@media only screen and (max-width: 390px) {
+
+	.dropdown-menu.dropdown-cart{
+		width: 102vw !important;
+		height: 100vh !important;
+		top: 21.5px !important;
+		border-left: 1px solid #fff !important;
+		border-right: 1px solid #fff !important;
+		left: auto !important;
+		right: auto !important;
+		text-align: center !important;
+		transform: translate(-81.5%, 0) !important;
+	}
+
+}
+
+@media only screen and (max-width: 378px) {
+
+	.dropdown-menu.dropdown-cart{
+		width: 102vw !important;
+		height: 100vh !important;
+		top: 21.5px !important;
+		border-left: 1px solid #fff !important;
+		border-right: 1px solid #fff !important;
+		left: auto !important;
+		right: auto !important;
+		text-align: center !important;
+		transform: translate(-81.5%, 0) !important;	
+}
+
+@media only screen and (max-width: 320px) {
+
+	.dropdown-menu.dropdown-cart{
+		left: -122px !important;
+    	width: 100vw !important;
+    	height: 100vh !important;
+    	top: -10px !important;
+	}
+}
+}
